@@ -1,0 +1,14 @@
+.nav__logo, .nav__link {
+    color: #fff;
+    transition: all 0.3s ease-in;
+}
+
+.nav__link:hover, .nav__logo:hover {
+    color: #000;
+}
+
+.nav__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
